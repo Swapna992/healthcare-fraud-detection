@@ -5,3 +5,8 @@ seaborn
 scikit-learn
 joblib
 jupyter
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pydantic

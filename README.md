@@ -77,6 +77,13 @@ High risk claims can be prioritized for manual investigation.
 LIBRARIES:
 Pandas
 Numpy
-Scikit-lear
+Scikit-learn
 Matplotlib
 Seaborn
+joblib
+jupyter
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pydantic
